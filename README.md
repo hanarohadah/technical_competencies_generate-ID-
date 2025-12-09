@@ -47,3 +47,5 @@ Aplikasi menggunakan mapping kompetensi terstruktur dengan kategori:
 2. Klik tombol **Proses**
 3. Lihat hasil kategorisasi & standardisasi
 4. Download CSV jika diperlukan
+
+Link -> https://generate-techcomps.streamlit.app/
